@@ -1,3 +1,4 @@
+// Revision 24 Nov 2026: entry re-verified byte-identical after this pass.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One Word for Your Wi-Fi — make.fun bounty
